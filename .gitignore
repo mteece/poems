@@ -1,0 +1,4 @@
+*.log
+build/
+ignore-this-file.txt
+
